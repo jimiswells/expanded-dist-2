@@ -394,7 +394,7 @@ article {
 .intro {
   position: relative;
   height: 900px;
-  background-image: url(assets/img/expanded-intro.jpg);
+  background-image: url(../img/expanded-intro.jpg);
   background-size: cover;
   background-position: center;
   background-color: #fff;
